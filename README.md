@@ -107,7 +107,8 @@ dim_acidente
 fact_acidentes
 ```
 
-📸 Inserir print da criação das tabelas no PostgreSQL
+<img width="474" height="1032" alt="image" src="https://github.com/user-attachments/assets/1810263c-bc1a-4d77-ab85-d2293235dca0" />
+
 
 ---
 
