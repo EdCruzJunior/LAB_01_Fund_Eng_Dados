@@ -123,7 +123,7 @@ O script ETL:
 Script:
 
 ```
-etl_load_dw.py
+etl_load_dw_Gold.py
 ```
 
 Tecnologias utilizadas:
